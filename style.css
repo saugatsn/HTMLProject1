@@ -1,0 +1,23 @@
+body{
+  background-color: #EEEEEE;
+}
+.tribute-info{
+  line-height:2em;
+  margin-right:30%;
+  font-family: lato;
+  margin-left:30%;
+  font-size: 15px;
+}
+}
+#image{
+  max-width:100%;
+  height: auto;
+  display: flex;
+  justify-content:center;
+}
+.foot{
+  line-height:2;
+  font-style: italic; 
+  margin-left: 30%;
+  margin-right: 30%;
+}
